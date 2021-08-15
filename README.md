@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RianoJNicolas
 - 👀 I’m interested in Back-End Dev and Circuit Design
-- 🌱 I’m currently learning Data Base and C#, JavaScript and more 
+- 🌱 I’m currently learning Data Base and Python, JavaScript and more 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: by a message in jonirianotorres@gmail.com or in my twitter @RianoJNicolas
+- 📫 How to reach me: by a message in rianojnicolas@gmail.com or in my twitter @RianoJNicolas
 
 <!---
 RianoJNicolas/RianoJNicolas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
