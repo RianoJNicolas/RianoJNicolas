@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RianoJNicolas
 - 👀 I’m interested in Back-End Dev and Circuit Design, but now I am working as a Data Engineer.
 - 🌱 I’m currently learning Data Base and Python, Scala, and Big Data. I started to learn about IA. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects about Big Data or in electronics with something of software like IOT.
 - 📫 How to reach me: by a message in rianojnicolas@gmail.com or in my twitter @RianoJNicolas
 
 <!---
